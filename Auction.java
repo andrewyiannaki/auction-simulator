@@ -4,8 +4,8 @@ import java.util.ArrayList;
  * A simple model of an auction.
  * The auction maintains a list of lots of arbitrary length.
  *
- * @author David J. Barnes and Michael Kölling.
- * @version 2011.07.31
+ * @author Andrew Yiannaki
+ * @version 2014.07.31
  */
 public class Auction
 {
