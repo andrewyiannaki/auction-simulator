@@ -2,8 +2,8 @@
  * A class that models an auction bid.
  * It contains a reference to the Person bidding and the amount bid.
  * 
- * @author David J. Barnes and Michael Kölling.
- * @version 2011.07.31
+ * @author Andrew Yiannaki
+ * @version 2014.07.31
  */
 public class Bid
 {

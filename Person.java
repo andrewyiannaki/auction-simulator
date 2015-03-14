@@ -1,7 +1,7 @@
 /**
  * Maintain details of someone who participates in an auction.
- * @author David J. Barnes and Michael Kölling.
- * @version 2011.07.31
+ * @author Andrew Yiannaki
+ * @version 2014.07.31
  */
 public class Person
 {
